@@ -24,6 +24,7 @@ void Cow::moo(int numMoos) const {
     cout << endl;
 }
 
+//slay
 int Cow::getNumSpots() const {
     return numSpots_;
 }
